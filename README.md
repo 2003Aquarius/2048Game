@@ -3,4 +3,6 @@ I wrote a simple 2048 mini-game using Pygame. It can keep track of scores and be
 
 使用pygame写了一个简易2048小游戏，可以统计分数，用键盘上下左右进行控制，游戏结束会显示gameover。
 
-更新了重启游戏功能，需要切换成英文输入法
+游戏结束后可以按R键重启游戏，需要切换成英文输入法。
+
+右下角添加了一个按钮，可以随时重启。
